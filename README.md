@@ -1,6 +1,6 @@
 # Solving Dual Sourcing Problems with Supply Mode Dependent Failure Rates
 
-This project contains code for the paper titled "Solving Dual Sourcing Problems with Supply Mode Dependent Failure Rates" by Fabian Akkerman, Nils Knofius, Matthieu van der Heijden, and Martijn Mes, see: [working paper]
+This project contains code for the paper titled "Solving Dual Sourcing Problems with Supply Mode Dependent Failure Rates" by Fabian Akkerman, Nils Knofius, Matthieu van der Heijden, and Martijn Mes, see: [arxiv.org/abs/2410.03887]
 
 ## Citation
 
